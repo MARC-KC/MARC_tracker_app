@@ -21,7 +21,7 @@ jobs:
     #Set the node-js version
     strategy:
       matrix:
-        node-version: [10.x]
+        node-version: [12.x]
         
     name: Deploy master to gh-pages with Node.js ${{ matrix.node-version }} 
 

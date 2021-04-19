@@ -25,3 +25,4 @@ npm run deploy
 
 ## Credits
 React.js application built by [@bethwickerson](https://github.com/bethwickerson)
+View at https://bethwickerson.github.io/MARC_tracker_app/
